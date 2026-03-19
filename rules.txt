@@ -1,0 +1,64 @@
+! =====================
+! Allowlist (exceptions)
+! =====================
+@@||*.okcdn.ru^
+
+! ======================
+! Local redirects (hosts)
+! ======================
+192.168.0.75 basketrandom.io
+192.168.0.75 basketrandomonline.github.io
+192.168.0.75 diep.io
+192.168.0.75 gamepix.com
+192.168.0.75 happy-wheels.co
+192.168.0.75 happywheels.one
+192.168.0.75 happywheels2.io
+192.168.0.75 happywheelsgame.io
+192.168.0.75 hydralauncher.gg
+192.168.0.75 invoker-game.com
+192.168.0.75 library.hydra.wiki
+192.168.0.75 onlineigry.net
+192.168.0.75 play-cs.com
+192.168.0.75 startgamer.ru
+192.168.0.75 twoplayergames.org
+192.168.0.75 www.gamepix.com
+
+! Wildcards are not valid in hosts format, use dnsrewrite rules.
+||crazygames.ru^$dnsrewrite=NOERROR;A;192.168.0.75
+||kick.com^$dnsrewrite=NOERROR;A;192.168.0.75
+||lostgamer.io^$dnsrewrite=NOERROR;A;192.168.0.75
+||play-cs.com^$dnsrewrite=NOERROR;A;192.168.0.75
+||poizon.com^$dnsrewrite=NOERROR;A;192.168.0.75
+||razlozhi.online^$dnsrewrite=NOERROR;A;192.168.0.75
+||razlozhi.ru^$dnsrewrite=NOERROR;A;192.168.0.75
+||thepoizon.ru^$dnsrewrite=NOERROR;A;192.168.0.75
+||vseigru.net^$dnsrewrite=NOERROR;A;192.168.0.75
+||wildberries.ru^$dnsrewrite=NOERROR;A;192.168.0.75
+
+! =============================
+! Block rules (high precedence)
+! =============================
+||freeguessr.com^$important
+||geoguessr.com^$important
+||igroutka.ru^$important
+||igry.top^$important
+||kick.com^
+||razlozhi.online^$important
+||razlozhi.ru^$important
+||thepoizon.ru^$important
+||www.basketrandom.io^$important
+||www.basketrandomonline.github.io^$important
+||www.geoguessr.com^$important
+||www.happy-wheels.co^$important
+||www.happywheels.one^$important
+||www.happywheels2.io^$important
+||www.happywheelsgame.io^$important
+||www.hydralauncher.gg^$important
+||www.invoker-game.com^$important
+||www.library.hydra.wiki^$important
+||www.lostgamer.io^$important
+||www.onlineigry.net^$important
+||www.panoidl.ru^$important
+||www.startgamer.ru^$important
+||www.thepoizon.ru^$important
+||www.twoplayergames.org^$important
