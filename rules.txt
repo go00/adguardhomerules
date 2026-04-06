@@ -43,8 +43,13 @@
 ||igroutka.ru^$important
 ||igry.top^$important
 ||kick.com^
+||logic-games.spb.ru^$important
+||panoidl.ru^$important
+||pasyans.online^$important
 ||razlozhi.online^$important
 ||razlozhi.ru^$important
+||sdelayhod.ru^$important
+||thesolitaire.com^$important
 ||thepoizon.ru^$important
 ||www.basketrandom.io^$important
 ||www.basketrandomonline.github.io^$important
@@ -58,7 +63,6 @@
 ||www.library.hydra.wiki^$important
 ||www.lostgamer.io^$important
 ||www.onlineigry.net^$important
-||www.panoidl.ru^$important
 ||www.startgamer.ru^$important
 ||www.thepoizon.ru^$important
 ||www.twoplayergames.org^$important
