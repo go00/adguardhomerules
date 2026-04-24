@@ -44,6 +44,7 @@
 ||igry.top^$important
 ||kick.com^
 ||case-battle.red^$important
+||csgorungame.gg^$important
 ||logic-games.spb.ru^$important
 ||panoidl.ru^$important
 ||pasyans.online^$important
