@@ -53,6 +53,7 @@
 ||sdelayhod.ru^$important
 ||thesolitaire.com^$important
 ||thepoizon.ru^$important
+||webosu-2.github.io^$important
 ||www.basketrandom.io^$important
 ||www.basketrandomonline.github.io^$important
 ||www.geoguessr.com^$important
