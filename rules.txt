@@ -46,6 +46,7 @@
 ||case-battle.red^$important
 ||csgorungame.gg^$important
 ||logic-games.spb.ru^$important
+||osu.ppy.sh^$important
 ||panoidl.ru^$important
 ||pasyans.online^$important
 ||razlozhi.online^$important
